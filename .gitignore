@@ -1,0 +1,14 @@
+
+# Compiled program
+expense_tracker
+expense_tracker.exe
+
+# Generated personal financial data
+transactions.txt
+budget.txt
+
+# macOS files
+.DS_Store
+
+# VS Code workspace settings
+.vscode/
